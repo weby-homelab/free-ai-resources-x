@@ -218,3 +218,11 @@ If this helped you learn, please consider:
 *Built with ❤️ by the open-source community.*
 
 </div>
+
+---
+
+<br>
+<p align="center">
+  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
+  &copy; 2026 Weby Homelab
+</p>
